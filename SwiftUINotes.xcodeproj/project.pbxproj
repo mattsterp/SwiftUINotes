@@ -15,6 +15,7 @@
 		937D7F40269B7E8F00F8CAA2 /* ShapesSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937D7F3F269B7E8F00F8CAA2 /* ShapesSwiftUI.swift */; };
 		937D7F42269B82B700F8CAA2 /* ColorSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937D7F41269B82B700F8CAA2 /* ColorSwiftUI.swift */; };
 		937D7F44269B870200F8CAA2 /* GradientsSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937D7F43269B870200F8CAA2 /* GradientsSwiftUI.swift */; };
+		93F72859269F67A60032388E /* systemIconSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93F72858269F67A60032388E /* systemIconSwiftUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		937D7F3F269B7E8F00F8CAA2 /* ShapesSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesSwiftUI.swift; sourceTree = "<group>"; };
 		937D7F41269B82B700F8CAA2 /* ColorSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSwiftUI.swift; sourceTree = "<group>"; };
 		937D7F43269B870200F8CAA2 /* GradientsSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsSwiftUI.swift; sourceTree = "<group>"; };
+		93F72858269F67A60032388E /* systemIconSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = systemIconSwiftUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				937D7F3F269B7E8F00F8CAA2 /* ShapesSwiftUI.swift */,
 				937D7F41269B82B700F8CAA2 /* ColorSwiftUI.swift */,
 				937D7F43269B870200F8CAA2 /* GradientsSwiftUI.swift */,
+				93F72858269F67A60032388E /* systemIconSwiftUI.swift */,
 				937D7F2E269B6F1F00F8CAA2 /* Assets.xcassets */,
 				937D7F33269B6F1F00F8CAA2 /* Info.plist */,
 				937D7F30269B6F1F00F8CAA2 /* Preview Content */,
@@ -156,6 +159,7 @@
 				937D7F44269B870200F8CAA2 /* GradientsSwiftUI.swift in Sources */,
 				937D7F2B269B6F1E00F8CAA2 /* SwiftUINotesApp.swift in Sources */,
 				937D7F42269B82B700F8CAA2 /* ColorSwiftUI.swift in Sources */,
+				93F72859269F67A60032388E /* systemIconSwiftUI.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
