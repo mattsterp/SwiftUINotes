@@ -20,6 +20,8 @@
 		937D7F40269B7E8F00F8CAA2 /* ShapesSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937D7F3F269B7E8F00F8CAA2 /* ShapesSwiftUI.swift */; };
 		937D7F42269B82B700F8CAA2 /* ColorSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937D7F41269B82B700F8CAA2 /* ColorSwiftUI.swift */; };
 		937D7F44269B870200F8CAA2 /* GradientsSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937D7F43269B870200F8CAA2 /* GradientsSwiftUI.swift */; };
+		938C905D26ACB60D00EC0D4F /* ScrollViewSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938C905C26ACB60D00EC0D4F /* ScrollViewSwiftUI.swift */; };
+		93C6C65126BC1D4D0040B971 /* GridSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93C6C65026BC1D4D0040B971 /* GridSwiftUI.swift */; };
 		93F72859269F67A60032388E /* systemIconSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93F72858269F67A60032388E /* systemIconSwiftUI.swift */; };
 		93F7285B269F6B310032388E /* imageSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93F7285A269F6B310032388E /* imageSwiftUI.swift */; };
 		93F7285D269FA8D70032388E /* frameSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93F7285C269FA8D70032388E /* frameSwiftUI.swift */; };
@@ -42,6 +44,8 @@
 		937D7F3F269B7E8F00F8CAA2 /* ShapesSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesSwiftUI.swift; sourceTree = "<group>"; };
 		937D7F41269B82B700F8CAA2 /* ColorSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSwiftUI.swift; sourceTree = "<group>"; };
 		937D7F43269B870200F8CAA2 /* GradientsSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsSwiftUI.swift; sourceTree = "<group>"; };
+		938C905C26ACB60D00EC0D4F /* ScrollViewSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewSwiftUI.swift; sourceTree = "<group>"; };
+		93C6C65026BC1D4D0040B971 /* GridSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridSwiftUI.swift; sourceTree = "<group>"; };
 		93F72858269F67A60032388E /* systemIconSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = systemIconSwiftUI.swift; sourceTree = "<group>"; };
 		93F7285A269F6B310032388E /* imageSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageSwiftUI.swift; sourceTree = "<group>"; };
 		93F7285C269FA8D70032388E /* frameSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = frameSwiftUI.swift; sourceTree = "<group>"; };
@@ -93,6 +97,8 @@
 				9343D3C326A226F800997ED1 /* SpacerSwiftUI.swift */,
 				932AB12F26A9EEE9003A43A5 /* InitsAndEnums.swift */,
 				932AB13326A9F5DB003A43A5 /* ForEachSwiftUI.swift */,
+				938C905C26ACB60D00EC0D4F /* ScrollViewSwiftUI.swift */,
+				93C6C65026BC1D4D0040B971 /* GridSwiftUI.swift */,
 				937D7F2E269B6F1F00F8CAA2 /* Assets.xcassets */,
 				937D7F33269B6F1F00F8CAA2 /* Info.plist */,
 				937D7F30269B6F1F00F8CAA2 /* Preview Content */,
@@ -181,9 +187,11 @@
 				9343D3C426A226F800997ED1 /* SpacerSwiftUI.swift in Sources */,
 				937D7F40269B7E8F00F8CAA2 /* ShapesSwiftUI.swift in Sources */,
 				937D7F3E269B709100F8CAA2 /* TextSwiftUI.swift in Sources */,
+				93C6C65126BC1D4D0040B971 /* GridSwiftUI.swift in Sources */,
 				93F7285B269F6B310032388E /* imageSwiftUI.swift in Sources */,
 				937D7F44269B870200F8CAA2 /* GradientsSwiftUI.swift in Sources */,
 				9343D3C226A2236400997ED1 /* PaddingAndSpacing.swift in Sources */,
+				938C905D26ACB60D00EC0D4F /* ScrollViewSwiftUI.swift in Sources */,
 				937D7F2B269B6F1E00F8CAA2 /* SwiftUINotesApp.swift in Sources */,
 				932AB13426A9F5DB003A43A5 /* ForEachSwiftUI.swift in Sources */,
 				932AB13026A9EEE9003A43A5 /* InitsAndEnums.swift in Sources */,
