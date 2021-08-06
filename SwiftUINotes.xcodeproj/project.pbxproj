@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9301053C26BDA5D000743CFB /* StateSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9301053B26BDA5D000743CFB /* StateSwiftUI.swift */; };
 		932AB13026A9EEE9003A43A5 /* InitsAndEnums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 932AB12F26A9EEE9003A43A5 /* InitsAndEnums.swift */; };
 		932AB13426A9F5DB003A43A5 /* ForEachSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 932AB13326A9F5DB003A43A5 /* ForEachSwiftUI.swift */; };
 		9343D3BE26A212FB00997ED1 /* StacksSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9343D3BD26A212FB00997ED1 /* StacksSwiftUI.swift */; };
@@ -31,6 +32,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9301053B26BDA5D000743CFB /* StateSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateSwiftUI.swift; sourceTree = "<group>"; };
 		932AB12F26A9EEE9003A43A5 /* InitsAndEnums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitsAndEnums.swift; sourceTree = "<group>"; };
 		932AB13326A9F5DB003A43A5 /* ForEachSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachSwiftUI.swift; sourceTree = "<group>"; };
 		9343D3BD26A212FB00997ED1 /* StacksSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksSwiftUI.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				93C6C65026BC1D4D0040B971 /* GridSwiftUI.swift */,
 				93C6C65226BC44F50040B971 /* SafeAreaSwiftUI.swift */,
 				9349A27226BD91D800EA5072 /* ButtonSwiftUI.swift */,
+				9301053B26BDA5D000743CFB /* StateSwiftUI.swift */,
 				937D7F2E269B6F1F00F8CAA2 /* Assets.xcassets */,
 				937D7F33269B6F1F00F8CAA2 /* Info.plist */,
 				937D7F30269B6F1F00F8CAA2 /* Preview Content */,
@@ -190,6 +193,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				937D7F2D269B6F1E00F8CAA2 /* ContentView.swift in Sources */,
+				9301053C26BDA5D000743CFB /* StateSwiftUI.swift in Sources */,
 				9343D3C426A226F800997ED1 /* SpacerSwiftUI.swift in Sources */,
 				937D7F40269B7E8F00F8CAA2 /* ShapesSwiftUI.swift in Sources */,
 				937D7F3E269B709100F8CAA2 /* TextSwiftUI.swift in Sources */,
