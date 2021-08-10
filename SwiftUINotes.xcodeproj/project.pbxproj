@@ -25,6 +25,7 @@
 		938C905D26ACB60D00EC0D4F /* ScrollViewSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938C905C26ACB60D00EC0D4F /* ScrollViewSwiftUI.swift */; };
 		93C6C65126BC1D4D0040B971 /* GridSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93C6C65026BC1D4D0040B971 /* GridSwiftUI.swift */; };
 		93C6C65326BC44F50040B971 /* SafeAreaSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93C6C65226BC44F50040B971 /* SafeAreaSwiftUI.swift */; };
+		93C79DD226C2D52F006C2C54 /* ExtractedFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93C79DD126C2D52F006C2C54 /* ExtractedFunctions.swift */; };
 		93F72859269F67A60032388E /* systemIconSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93F72858269F67A60032388E /* systemIconSwiftUI.swift */; };
 		93F7285B269F6B310032388E /* imageSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93F7285A269F6B310032388E /* imageSwiftUI.swift */; };
 		93F7285D269FA8D70032388E /* frameSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93F7285C269FA8D70032388E /* frameSwiftUI.swift */; };
@@ -52,6 +53,7 @@
 		938C905C26ACB60D00EC0D4F /* ScrollViewSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewSwiftUI.swift; sourceTree = "<group>"; };
 		93C6C65026BC1D4D0040B971 /* GridSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridSwiftUI.swift; sourceTree = "<group>"; };
 		93C6C65226BC44F50040B971 /* SafeAreaSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaSwiftUI.swift; sourceTree = "<group>"; };
+		93C79DD126C2D52F006C2C54 /* ExtractedFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctions.swift; sourceTree = "<group>"; };
 		93F72858269F67A60032388E /* systemIconSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = systemIconSwiftUI.swift; sourceTree = "<group>"; };
 		93F7285A269F6B310032388E /* imageSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageSwiftUI.swift; sourceTree = "<group>"; };
 		93F7285C269FA8D70032388E /* frameSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = frameSwiftUI.swift; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 				93C6C65226BC44F50040B971 /* SafeAreaSwiftUI.swift */,
 				9349A27226BD91D800EA5072 /* ButtonSwiftUI.swift */,
 				9301053B26BDA5D000743CFB /* StateSwiftUI.swift */,
+				93C79DD126C2D52F006C2C54 /* ExtractedFunctions.swift */,
 				937D7F2E269B6F1F00F8CAA2 /* Assets.xcassets */,
 				937D7F33269B6F1F00F8CAA2 /* Info.plist */,
 				937D7F30269B6F1F00F8CAA2 /* Preview Content */,
@@ -202,6 +205,7 @@
 				937D7F44269B870200F8CAA2 /* GradientsSwiftUI.swift in Sources */,
 				9343D3C226A2236400997ED1 /* PaddingAndSpacing.swift in Sources */,
 				938C905D26ACB60D00EC0D4F /* ScrollViewSwiftUI.swift in Sources */,
+				93C79DD226C2D52F006C2C54 /* ExtractedFunctions.swift in Sources */,
 				9349A27326BD91D800EA5072 /* ButtonSwiftUI.swift in Sources */,
 				937D7F2B269B6F1E00F8CAA2 /* SwiftUINotesApp.swift in Sources */,
 				932AB13426A9F5DB003A43A5 /* ForEachSwiftUI.swift in Sources */,
