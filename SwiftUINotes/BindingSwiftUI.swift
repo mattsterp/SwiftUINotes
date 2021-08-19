@@ -15,9 +15,7 @@ struct BindingSwiftUI: View {
       ZStack {
         backgroundColor
           .ignoresSafeArea()
-        
         ButtonView(backgroundColor: $backgroundColor)
-
       }
     }
 }

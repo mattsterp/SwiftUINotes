@@ -23,6 +23,7 @@
 		937D7F42269B82B700F8CAA2 /* ColorSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937D7F41269B82B700F8CAA2 /* ColorSwiftUI.swift */; };
 		937D7F44269B870200F8CAA2 /* GradientsSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 937D7F43269B870200F8CAA2 /* GradientsSwiftUI.swift */; };
 		938C905D26ACB60D00EC0D4F /* ScrollViewSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 938C905C26ACB60D00EC0D4F /* ScrollViewSwiftUI.swift */; };
+		9393DF1426C97F0B00CAD3D0 /* ConditionalSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9393DF1326C97F0B00CAD3D0 /* ConditionalSwiftUI.swift */; };
 		93C6C65126BC1D4D0040B971 /* GridSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93C6C65026BC1D4D0040B971 /* GridSwiftUI.swift */; };
 		93C6C65326BC44F50040B971 /* SafeAreaSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93C6C65226BC44F50040B971 /* SafeAreaSwiftUI.swift */; };
 		93C79DD226C2D52F006C2C54 /* ExtractedFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93C79DD126C2D52F006C2C54 /* ExtractedFunctions.swift */; };
@@ -53,6 +54,7 @@
 		937D7F41269B82B700F8CAA2 /* ColorSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSwiftUI.swift; sourceTree = "<group>"; };
 		937D7F43269B870200F8CAA2 /* GradientsSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsSwiftUI.swift; sourceTree = "<group>"; };
 		938C905C26ACB60D00EC0D4F /* ScrollViewSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewSwiftUI.swift; sourceTree = "<group>"; };
+		9393DF1326C97F0B00CAD3D0 /* ConditionalSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalSwiftUI.swift; sourceTree = "<group>"; };
 		93C6C65026BC1D4D0040B971 /* GridSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridSwiftUI.swift; sourceTree = "<group>"; };
 		93C6C65226BC44F50040B971 /* SafeAreaSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaSwiftUI.swift; sourceTree = "<group>"; };
 		93C79DD126C2D52F006C2C54 /* ExtractedFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctions.swift; sourceTree = "<group>"; };
@@ -117,6 +119,7 @@
 				93C79DD126C2D52F006C2C54 /* ExtractedFunctions.swift */,
 				93C79DD326C2DE38006C2C54 /* ExtractSubviewsSwiftUI.swift */,
 				93C79DD526C2E236006C2C54 /* BindingSwiftUI.swift */,
+				9393DF1326C97F0B00CAD3D0 /* ConditionalSwiftUI.swift */,
 				937D7F2E269B6F1F00F8CAA2 /* Assets.xcassets */,
 				937D7F33269B6F1F00F8CAA2 /* Info.plist */,
 				937D7F30269B6F1F00F8CAA2 /* Preview Content */,
@@ -203,6 +206,7 @@
 			files = (
 				937D7F2D269B6F1E00F8CAA2 /* ContentView.swift in Sources */,
 				9301053C26BDA5D000743CFB /* StateSwiftUI.swift in Sources */,
+				9393DF1426C97F0B00CAD3D0 /* ConditionalSwiftUI.swift in Sources */,
 				9343D3C426A226F800997ED1 /* SpacerSwiftUI.swift in Sources */,
 				937D7F40269B7E8F00F8CAA2 /* ShapesSwiftUI.swift in Sources */,
 				937D7F3E269B709100F8CAA2 /* TextSwiftUI.swift in Sources */,
